@@ -19,7 +19,7 @@ namespace WebApplicationConnect.Controllers
         public IActionResult Index()
         {
             var channel = GrpcChannel.ForAddress("http://localhost:5292");
-            //var client = new EmployeeCRUD(channel);
+            var client = new EmployeeCRUD.EmployeeCRUDClient(channel);
             return View();
         }
 
