@@ -46,6 +46,8 @@ namespace WebApplicationConnect.Controllers
         
 
 
+
+
         public IActionResult Update(string id)
         {
             var channel = GrpcChannel.ForAddress("http://localhost:5292");
@@ -56,12 +58,14 @@ namespace WebApplicationConnect.Controllers
 
             employee.FirstName = "Tom123";
             employee.LastName = "Jerry123";
-
+            
             Empty response2 = client.Update(employee);
-
 
             return RedirectToAction("Index");
         }
+
+
+
 
 
 
