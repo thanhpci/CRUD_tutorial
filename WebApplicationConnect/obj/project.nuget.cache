@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0A7RhCM2d0wYWBu1dIYGpODuxeCQNoz/Eo17LWyjFYQJdxsh5adPoiU4Lu/KyLBeOBbddh2YO7nzRi3A4jWrTg==",
+  "dgSpecHash": "fymzrWXPjIQAWWO9E7glCG6gpIq+A7Z0yEjItPt6icobT9Ya5Q6uucO+qcjY5l0V7mDTeQWs5/Av/9abJjT3Qw==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\WebApplicationConnect\\WebApplicationConnect.csproj",
+  "projectFilePath": "C:\\WorkSpace\\C#\\CRUD_tutorial\\WebApplicationConnect\\WebApplicationConnect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thanh.pham7\\.nuget\\packages\\google.protobuf\\3.21.7\\google.protobuf.3.21.7.nupkg.sha512",
     "C:\\Users\\thanh.pham7\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",

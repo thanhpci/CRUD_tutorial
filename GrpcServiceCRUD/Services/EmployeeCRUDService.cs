@@ -67,6 +67,8 @@ namespace GrpcServiceCRUD.Services
         public override Task<Empty> Delete(EmployeeFilter requestData,ServerCallContext context)
         {
             var data = db.Employees.Find(requestData.EmployeeID);
+            db.Entry(data).State = EntityState.Detached;
+
             db.Employees.Remove(new DataAccess.Employee()
             {
                 EmployeeID = data.EmployeeID,

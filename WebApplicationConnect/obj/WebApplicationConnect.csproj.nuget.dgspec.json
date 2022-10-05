@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\WebApplicationConnect\\WebApplicationConnect.csproj": {}
+    "C:\\WorkSpace\\C#\\CRUD_tutorial\\WebApplicationConnect\\WebApplicationConnect.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj": {
+    "C:\\WorkSpace\\C#\\CRUD_tutorial\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\C#\\CRUD_tutorial\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj",
         "projectName": "GrpcServiceCRUD",
-        "projectPath": "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj",
+        "projectPath": "C:\\WorkSpace\\C#\\CRUD_tutorial\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj",
         "packagesPath": "C:\\Users\\thanh.pham7\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\GrpcServiceCRUD\\obj\\",
+        "outputPath": "C:\\WorkSpace\\C#\\CRUD_tutorial\\GrpcServiceCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -89,14 +89,14 @@
         }
       }
     },
-    "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\WebApplicationConnect\\WebApplicationConnect.csproj": {
+    "C:\\WorkSpace\\C#\\CRUD_tutorial\\WebApplicationConnect\\WebApplicationConnect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\WebApplicationConnect\\WebApplicationConnect.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\C#\\CRUD_tutorial\\WebApplicationConnect\\WebApplicationConnect.csproj",
         "projectName": "WebApplicationConnect",
-        "projectPath": "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\WebApplicationConnect\\WebApplicationConnect.csproj",
+        "projectPath": "C:\\WorkSpace\\C#\\CRUD_tutorial\\WebApplicationConnect\\WebApplicationConnect.csproj",
         "packagesPath": "C:\\Users\\thanh.pham7\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\WebApplicationConnect\\obj\\",
+        "outputPath": "C:\\WorkSpace\\C#\\CRUD_tutorial\\WebApplicationConnect\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -120,8 +120,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj": {
-                "projectPath": "D:\\WorkSpace\\C#\\GrpcServiceCRUD\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj"
+              "C:\\WorkSpace\\C#\\CRUD_tutorial\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj": {
+                "projectPath": "C:\\WorkSpace\\C#\\CRUD_tutorial\\GrpcServiceCRUD\\GrpcServiceCRUD.csproj"
               }
             }
           }
